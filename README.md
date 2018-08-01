@@ -7,4 +7,5 @@ http://emotorrepair.com/ (html, SASS, jQuery, server management with Digital Oce
 
 https://www.mlelectronics.com/ (php, laravel, mySQL, html, sass, javascript);
 
-http://goldstarvegetarian.com/  (php, angularJS, SASS, html, jQuery, mySQL);
+https://careers.mcafee.com/  (html, SASS, jQuery, Razor); 
+- Featured in https://blog.ongig.com/job-ads/best-job-ads-examples-in-2018
